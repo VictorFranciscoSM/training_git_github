@@ -37,8 +37,8 @@ body::before {
     align-items: center;
     justify-content: space-between;
     border-radius: 22px;
-    border: 1px solid #1875E8;
-    box-shadow: 4px 4px 20px 0px rgba(1, 8, 14, 0.15);
+    border: 1px solid #7218e8;
+    box-shadow: 4px 4px 20px 0px rgba(1, 8, 14, 0.587);
     background-image: url("img/Ruido.png");
     background-size: 100% 100%;
     position: relative;
