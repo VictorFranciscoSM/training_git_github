@@ -8,3 +8,5 @@ function changeMaxTo50() {
     const inputElement = document.getElementById('myInput');
     inputElement.max = 50;
 }
+
+document.getElementById('changeTo30').addEventListener('click', changeMaxTo30);
