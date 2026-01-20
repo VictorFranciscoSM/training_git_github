@@ -10,3 +10,4 @@ function changeMaxTo50() {
 }
 
 document.getElementById('changeTo30').addEventListener('click', changeMaxTo30);
+document.getElementById('changeTo50').addEventListener('click', changeMaxTo50);
