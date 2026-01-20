@@ -2,3 +2,4 @@
 ## en este juego se advinan numero
 Permite hacer dinamicas
 ### Cambios
+Limpia y sencilla
